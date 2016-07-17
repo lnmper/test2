@@ -9,4 +9,4 @@ aaaaaaaaaaaaaa
 git is a distributed version control system
 git tracks changes
 i am child and child's father.lol
-createing a new branch is quick
+createing a new branch is quicked than svn
