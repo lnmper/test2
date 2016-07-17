@@ -1,9 +1,7 @@
 12321321321
 33333333
-<<<<<<< HEAD
 2
 4444444
-=======
 11111111
 22222222
 333333333333
@@ -11,3 +9,4 @@ aaaaaaaaaaaaaa
 git is a distributed version control system
 git tracks changes
 i am child and child's father.lol
+createing a new branch is quick
